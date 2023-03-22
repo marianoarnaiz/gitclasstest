@@ -1,11 +1,11 @@
 body{
-    font-family: 'Sniglet', cursive;
+    font-family: 'Courier', cursive;
     font-size: 16px;
     color: #F3F3F3;
     background-color: #340075;
 }
 header{
-    font-family: 'Sniglet', cursive;
+    font-family: 'Courier', cursive;
     font-weight: 900;
     font-size: 80px;
     text-transform: uppercase;
@@ -74,7 +74,7 @@ p{
 .column .headline{
     text-align: center;
     line-height: normal;
-    font-family: 'Lobster', cursive;
+    font-family: 'Courier', cursive;
     display: block;
     margin: 0 auto;
 }
@@ -145,7 +145,7 @@ p{
 
 .column .headline.hl5{
     text-align: left;
-    font-family: 'Sniglet', cursive;
+    font-family: 'Courier', cursive;
     font-weight: 400;
     font-size: 12px;
     text-transform: uppercase;
@@ -202,7 +202,7 @@ p{
     padding: 10px 0 10px 0;
 }
 .column blockquote{
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Courier', cursive;
     font-size: 25px;
     line-height: 35px;
     /*font-style: italic;*/
